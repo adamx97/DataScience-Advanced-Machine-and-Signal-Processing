@@ -1,6 +1,7 @@
 # DataScience-Advanced-Machine-and-Signal-Processing
 
-more good notebooks on this title at https://raw.githubusercontent.com/IBM/coursera/master/coursera_ai/AssignmentAnomalyDetection.ipynb
+more good notebooks on this title at
+https://github.com/IBM/skillsnetwork/tree/master/coursera_ai
 
 and good tutorials here: https://developer.ibm.com/technologies/iot/tutorials/
 
